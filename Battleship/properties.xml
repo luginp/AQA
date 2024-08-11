@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <properties name="properties">
+        <mainpageurl>http://ru.battleship-game.org</mainpageurl>
+        <browser>chrome</browser>
+        <language>ru</language>
+        <downloadDyr>/downloads</downloadDyr>
+    </properties>
+</config>
