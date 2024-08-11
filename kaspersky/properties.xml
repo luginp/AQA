@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <properties name="properties">
+        <mainpageurl>https://my.kaspersky.com/</mainpageurl>
+        <browser>chrome</browser>
+        <language>ru</language>
+    </properties>
+</config>

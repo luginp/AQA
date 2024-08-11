@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Tests" verbose="1">
+    <parameter name="productMaker" value="Kaspersky"/>
+    <parameter name="login" value="pashaWhyMe@gmail.com"/>
+    <parameter name="password" value="1918165pasHA&amp;"/>
+    <test name="Windows">
+        <parameter name="os" value="Windows"/>
+        <parameter name="product" value="Total Security"/>
+        <classes>
+            <class name="kaspersky.tests.KasperskyTest"/>
+        </classes>
+    </test>
+    <test name="Mac">
+        <parameter name="os" value="Mac"/>
+        <parameter name="product" value="Internet Security"/>
+        <classes>
+            <class name="kaspersky.tests.KasperskyTest"/>
+        </classes>
+    </test>
+    <test name="Android">
+        <parameter name="os" value="Android"/>
+        <parameter name="product" value="Internet Security"/>
+        <classes>
+            <class name="kaspersky.tests.KasperskyTest"/>
+        </classes>
+    </test>
+    <test name="iOS">
+        <parameter name="os" value="iOS"/>
+        <parameter name="product" value="Safe Kids"/>
+        <classes>
+            <class name="kaspersky.tests.KasperskyTest"/>
+        </classes>
+    </test>
+</suite>

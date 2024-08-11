@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <properties name="properties">
+        <email>pashaWhyMe</email>
+        <password>1918165pasha</password>
+        <clientId>98347359695-hl9fij04ujt7bt69agbme5rb7ckqdg50.apps.googleusercontent.com</clientId>
+        <clientSecret>EHPyAfFSqX4TQu2ZAGXDunFc</clientSecret>
+    </properties>
+</config>
