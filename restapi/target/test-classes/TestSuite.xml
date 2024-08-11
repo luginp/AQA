@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" verbose="1">
+    <test name="Api test">
+        <parameter name="url" value="http://www.mocky.io/v2/5daedf5b320000ec71d95dd7"/>
+        <parameter name="statusCode" value="200"></parameter>
+        <classes>
+            <class name="project.tests.RestApiTest"/>
+        </classes>
+    </test>
+</suite>
