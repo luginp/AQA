@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <properties name="properties">
+        <mainpageurl>https://www.cars.com/</mainpageurl>
+        <browser>chrome</browser>
+        <language>ru</language>
+        <downloadDyr>/downloads</downloadDyr>
+        <research>Research</research>
+        <trims>Trims</trims>
+    </properties>
+</config>
