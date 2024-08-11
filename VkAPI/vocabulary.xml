@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <en name="en">
+        <myProfile>My profile</myProfile>
+    </en>
+    <ru name="ru">
+        <myProfile>Моя страница</myProfile>
+    </ru>
+</config>
